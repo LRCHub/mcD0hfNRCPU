@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青春トラベラー",
+  "base_artist": "スタァライト九九組",
+  "createdAt": "2026-01-13T18:34:56.314405Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春トラベラー",
+      "artist": "スタァライト九九組",
+      "has_synced": false,
+      "path": "select/pl_01_青春トラベラー_スタァライト九九組.txt"
+    }
+  ]
+}
